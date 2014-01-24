@@ -1,5 +1,8 @@
 <?php
 
+
+// for meaningful comments see  pchart_totalimp_vs_takenimp.php
+
 require_once "pChart/class/pDraw.class.php";
 require_once "pChart/class/pImage.class.php";
 require_once "pChart/class/pData.class.php";
